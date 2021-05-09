@@ -1,5 +1,6 @@
 #!/usr/bin/bash
 
+
 echo "Trabajo Practico #3"
 
 echo "(1) Imprima todas las líneas que contengan un número de teléfono con una extensión (la letra x o X seguida de cuatro dígitos)"
